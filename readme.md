@@ -26,7 +26,7 @@ The input signal, being an audio signal, is amplified and rectified to convert i
 
 ## Data Acquisition
 Real-time bar graph levels can be acquired through the serial port using MATLAB. The MATLAB script Bargraph2010.m reads and displays the data in a bar graph. This method also allows for further analysis, curve fitting, and additional graphical representation.
-![alt text](https://github.com/brunoargenton/ArduinoBarGraph/blob/main/img/5.jpg)
+![alt text](https://github.com/brunoargenton/ArduinoBarGraph/blob/main/img/6.jpg)
 
 ## Arduino Code
 The Arduino code (BarGraph.ino) reads the analog signal, determines the mode (Bar or Dot), maps the input to the range of 0 to 10, and controls the activation of LEDs accordingly.
