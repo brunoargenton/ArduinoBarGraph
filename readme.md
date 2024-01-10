@@ -1,4 +1,4 @@
-# LED Bar Graph Project
+# 💡💡💡 BarGraph Project 💡💡💡
 
 ## Overview
 This project, developed in 2010 by students Bruno Argenton and Bruno Taglietti under the supervision of Prof. Edson dos Santos Acco at Universidade de Passo Fundo - Laboratório de Eletrônica de Potência I, involves the creation of a Bar Graph using 10 100W lamps. The project utilizes the theoretical basis of driving loads requiring mains voltage, isolated using logic circuits. The input signal is a mono audio signal processed through rectification, amplification, and level shifting for proper acquisition by the AVR ATmega328P microcontroller connected to an Arduino platform.
@@ -38,9 +38,12 @@ The MATLAB script (Bargraph2010.m) reads data from the Arduino through the seria
 The project successfully applies knowledge from the Power Electronics discipline. The choice of an open-source platform like Arduino provides flexibility for users to modify and enhance the project. The use of serial communication serves as an example, encouraging users to create applications according to their needs.
 
 ## Video
-Watch the prototype in action on YouTube.
+Watch the prototype in action on YouTube:
+
+[![Bargraph YT](https://img.youtube.com/vi/aVo3MJKAT9g/0.jpg)](https://www.youtube.com/watch?v=aVo3MJKAT9g)
+
 
 ## References
 - BARBI, Ivo. Conversores cc-cc isolados de alta freqüência com comutação suave. Florianópolis: Editores, 1999.
 - Arduino Official Website
--MATLAB Documentation
+- MATLAB Documentation
