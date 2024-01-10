@@ -19,6 +19,8 @@ The control of the lamp activations is achieved using an ATMega328P microcontrol
 
 ![alt text](https://github.com/brunoargenton/ArduinoBarGraph/blob/main/img/3.jpg)
 
+![alt text](https://github.com/brunoargenton/ArduinoBarGraph/blob/main/img/5.jpg)
+
 ## Signal Processing
 The input signal, being an audio signal, is amplified and rectified to convert it into a form suitable for the Arduino's analog-to-digital converter. A simple op-amp circuit with a gain of approximately 10 is used for amplification and rectification.
 
